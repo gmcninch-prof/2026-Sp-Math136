@@ -39,7 +39,7 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
   | 02/18 | Wed | Exam       |           | 6    | **midterm 1**                                                             |
   | 02/18 | Wed | Tufts      |           | 6    | **Academic Date:** *Last day to drop a course without record*             |
   | 02/19 | Thu | Meeting    | Office Hr | 6    | 14:30-15:30 JCC 559                                                       |
-  | 02/20 | Fri | Assignment |           | 6    | PS06                                                                      |
+  | 02/20 | Fri | Assignment |           | 6    | (exam - no HW collection)                                                 |
   | 02/23 | Mon | Lecture    | 10        | 7    | 16.3: Minimization principle and the general inverse function theorem     |
   | 02/25 | Wed | Meeting    | Office Hr | 7    | 15:00-16:00 JCC 559                                                       |
   | 02/25 | Wed | Lecture    | 11        | 7    | 17.1: Dini's Theorem                                                      |
@@ -61,7 +61,7 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
   | 03/17 | Tue | Tufts      |           | 10   | **No classes:** *Spring Break*                                            |
   | 03/18 | Wed | Tufts      |           | 10   | **No classes:** *Spring Break*                                            |
   | 03/19 | Thu | Tufts      |           | 10   | **No classes:** *Spring Break*                                            |
-  | 03/20 | Fri | Assignment |           | 10   |                                                                           |
+  | 03/20 | Fri | Assignment |           | 10   | spring break                                                              |
   | 03/20 | Fri | Tufts      |           | 10   | **No classes:** *Spring Break*                                            |
   | 03/21 | Sat | Tufts      |           | 10   | **No classes:** *Spring Break*                                            |
   | 03/22 | Sun | Tufts      |           | 10   | **No classes:** *Spring Break*                                            |
@@ -69,7 +69,7 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
   | 03/25 | Wed | Meeting    | Office Hr | 11   | 15:00-16:00 JCC 559                                                       |
   | 03/25 | Wed | Lecture    | 17        | 11   | 6.3: additivity, monotonicity, linearity                                  |
   | 03/26 | Thu | Meeting    | Office Hr | 11   | 14:30-15:30 JCC 559                                                       |
-  | 03/27 | Fri | Assignment |           | 11   |                                                                           |
+  | 03/27 | Fri | Assignment |           | 11   | PS11                                                                      |
   | 03/30 | Mon | Lecture    | 18        | 12   | midterm 2                                                                 |
   | 03/30 | Mon | Exam       |           | 12   | **midterm 2**                                                             |
   | 04/01 | Wed | Meeting    | Office Hr | 12   | 15:00-16:00 JCC 559                                                       |
@@ -77,17 +77,17 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
   | 04/01 | Wed | Tufts      |           | 12   | **Academic Date:** *Last day to withdraw from a course with W*            |
   | 04/01 | Wed | Tufts      |           | 12   | **Academic Date:** *Last day to select Pass/Fail Option*                  |
   | 04/02 | Thu | Meeting    | Office Hr | 12   | 14:30-15:30 JCC 559                                                       |
-  | 04/03 | Fri | Assignment |           | 12   |                                                                           |
+  | 04/03 | Fri | Assignment |           | 12   | PS12                                                                      |
   | 04/06 | Mon | Lecture    | 20        | 13   | 6.5: First fundamental theorem: integrating derivatives                   |
   | 04/08 | Wed | Meeting    | Office Hr | 13   | 15:00-16:00 JCC 559                                                       |
   | 04/08 | Wed | Lecture    | 21        | 13   | 6.6: Second fundamental theorem: differentiating integrals                |
   | 04/09 | Thu | Meeting    | Office Hr | 13   | 14:30-15:30 JCC 559                                                       |
-  | 04/10 | Fri | Assignment |           | 13   |                                                                           |
+  | 04/10 | Fri | Assignment |           | 13   | PS13                                                                      |
   | 04/13 | Mon | Lecture    | 22        | 14   | Fourier Series 1                                                          |
   | 04/15 | Wed | Meeting    | Office Hr | 14   | 15:00-16:00 JCC 559                                                       |
   | 04/15 | Wed | Lecture    | 23        | 14   | Fourier Series 2                                                          |
   | 04/16 | Thu | Meeting    | Office Hr | 14   | 14:30-15:30 JCC 559                                                       |
-  | 04/17 | Fri | Assignment |           | 14   |                                                                           |
+  | 04/17 | Fri | Assignment |           | 14   | PS14                                                                      |
   | 04/20 | Mon | Tufts      |           | 15   | **No classes:** *Patriots' Day*                                           |
   | 04/22 | Wed | Meeting    | Office Hr | 15   | 15:00-16:00 JCC 559                                                       |
   | 04/22 | Wed | Lecture    | 24        | 15   | Fourier Series 3                                                          |

@@ -6,32 +6,32 @@ date: 2024-01-07
 
 # Math 136  Spring 2026 Tufts University
 
-## Schedule & Format
+## Overview
 
 - **Professor: **[George McNinch](http://gmcninch.math.tufts.edu)
   <<george.mcninch@tufts.edu>>
 
+- The course meets on Mon and Wed 10:30--11:45.
 
-- 
+- Textbook: "Advanced Calculus (2nd edition)", P. Fitzpatrick, AMS, Providence RI 2009.
 
 ## Course Grading & Expectations   {#grading-and-expect}
 
 
-*You should keep up with the posted material throughout the  course!!*
+*You are expected to keep up with the posted material throughout the
+course!!*
 
 
-Your grade in the course will be based on  *problem sets*,
-*engagement*, two *midterm reports* and a *final report*.
+Your grade in the course will be based on *problem sets*, two *midterm
+exams* and a *final exam*.
 
 Here are details on these course components:
 
 - *weekly problem sets*, 
 
   Since the class meets on Mondays and Wednesdays, problem sets will
-  be collected weekly on ~~*Fridays*~~ *Sundays* (some weeks, a
-  midterm report -- see below -- will instead by collected on
-  ~~Friday~~ Sunday). You can find the planned collection schedule on
-  the course website.
+  be collected weekly on *Fridays*. You can find the planned
+  collection schedule on the course website.
 
   A total of 10 problem sets will be collected.
 
@@ -42,24 +42,24 @@ Here are details on these course components:
 
 
 
-- 2 ~~take-home~~ *midterms*
+- 2 *midterms* (in-class) Feb 18 10:30--11:45, and Mar 30 10:30--11:45
 
-- 1 ~~take-home~~ *final exam* Friday May 9, 8:30-10:30
+- 1 *final exam* Friday May 1, 12:00-14:00
 
 Please refer to the course website for details on expectations
 concerning these course components.
 
 Your score in the course will be determined from these grading components by the
-following (implicit) formula:
+following condition:
 
 Table: **Grading**
 
 | grade component | percentage |
 |:----------------|:-----------|
-| problem sets    | 40%        |
-| midterm 1       | 20%        |
-| midterm 2       | 20%        |
-| final           | 20%        |
+| problem sets    | 25%        |
+| midterm 1       | 25%        |
+| midterm 2       | 25%        |
+| final           | 25%        |
 
 -------
 
