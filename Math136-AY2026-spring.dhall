@@ -1,4 +1,4 @@
--- Time-stamp: <2026-01-10 Sat 14:15 EST - george@valhalla>
+-- Time-stamp: <2026-01-10 Sat 21:42 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -43,14 +43,14 @@ let Task =
 let tasks =
       [ Task.Meeting
           { description = "Office hours"
-          , dow = Dow.Wed
-          , time = { start = "13:30", end = "14:30" }
+          , dow = Dow.Thu
+          , time = { start = "14:30", end = "15:30" }
           , location = "JCC 559"
           }
       , Task.Meeting
           { description = "Office hours"
-          , dow = Dow.Thu
-          , time = { start = "14:30", end = "15:30" }
+          , dow = Dow.Wed
+          , time = { start = "15:00", end = "16:00" }
           , location = "JCC 559"
           }
       ]
@@ -68,13 +68,13 @@ let lectures =
         { sched =
           [ ScheduleDetails.DowTufts
               { dow = Dow.Mon
-              , time = { start = "9:00", end = "10:15" }
-              , location = "JCC 280"
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 140"
               }
           , ScheduleDetails.DowTufts
               { dow = Dow.Wed
-              , time = { start = "9:00", end = "10:15" }
-              , location = "JCC 280"
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 140"
               }
           ]
         , topics = ./topics/lectures.dhall : List Text
@@ -85,9 +85,9 @@ let midterm1 =
       CourseComponent.Exam
         { sched =
           [ ScheduleDetails.Date
-              { date = "2026-02-19"
-              , time = { start = "9:00", end = "10:15" }
-              , location = "JCC 280"
+              { date = "2026-02-18"
+              , time = { start = "10:30", end = "11:45" }
+              , location = "JCC 140"
               }
           ]
         , description = "midterm 1"
@@ -99,7 +99,7 @@ let midterm2 =
           [ ScheduleDetails.Date
               { date = "2026-03-31"
               , time = { start = "9:00", end = "10:15" }
-              , location = "JCC 280"
+              , location = "JCC 140"
               }
           ]
         , description = "midterm 2"
@@ -109,8 +109,8 @@ let final =
       CourseComponent.Exam
         { sched =
           [ ScheduleDetails.Date
-              { date = "2026-05-09"
-              , time = { start = "8:30", end = "10:30" }
+              { date = "2026-05-01"
+              , time = { start = "12:00", end = "14:00" }
               , location = "TBA"
               }
           ]
