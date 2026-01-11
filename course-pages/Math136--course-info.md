@@ -11,18 +11,18 @@ title: Math136 - Course Info
 # Schedule information
 
 - [Assignment
-  schedule](/course-pages/Math136--Assignments--AY2024-2025spring.html)
+  schedule](/course-pages/Math136--Assignments--AY2025-2026spring.html)
   (or as a
-  [PDF](/course-pages/Math136--Assignments--AY2024-2025spring.pdf))
+  [PDF](/course-pages/Math136--Assignments--AY2025-2026spring.pdf))
 
 - [Lecture
-  schedule](/course-pages/Math136--Lectures--AY2024-2025spring.html)
+  schedule](/course-pages/Math136--Lectures--AY2025-2026spring.html)
   (or as a
-  [PDF](/course-pages/Math136--Lectures--AY2024-2025spring.pdf))
+  [PDF](/course-pages/Math136--Lectures--AY2025-2026spring.pdf))
 
-- [Combined schedule](/course-pages/Math136--AY2024-2025spring.html)
+- [Combined schedule](/course-pages/Math136--AY2025-2026spring.html)
   (or as a
-  [PDF](/paged-pdf/Math136--AY2024-2025spring.pdf))
+  [PDF](/paged-pdf/Math136--AY2025-2026spring.pdf))
 
 
 # Resources

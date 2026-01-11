@@ -7,18 +7,18 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
 
   | Date  | DOW | Desc       | Seq | Week | Details |
   |-------|-----|------------|-----|------|---------|
-  | 01/18 | Sun | Assignment |     | 1    | PS01    |
-  | 01/25 | Sun | Assignment |     | 2    | PS02    |
-  | 02/01 | Sun | Assignment |     | 3    | PS03    |
-  | 02/08 | Sun | Assignment |     | 4    | PS04    |
-  | 02/15 | Sun | Assignment |     | 5    | PS05    |
-  | 02/22 | Sun | Assignment |     | 6    | PS06    |
-  | 03/01 | Sun | Assignment |     | 7    | PS07    |
-  | 03/08 | Sun | Assignment |     | 8    | PS08    |
-  | 03/15 | Sun | Assignment |     | 9    | PS09    |
-  | 03/22 | Sun | Assignment |     | 10   |         |
-  | 03/29 | Sun | Assignment |     | 11   |         |
-  | 04/05 | Sun | Assignment |     | 12   |         |
-  | 04/12 | Sun | Assignment |     | 13   |         |
-  | 04/19 | Sun | Assignment |     | 14   |         |
-  | 04/26 | Sun | Assignment |     | 15   |         |
+  | 01/16 | Fri | Assignment |     | 1    | PS01    |
+  | 01/23 | Fri | Assignment |     | 2    | PS02    |
+  | 01/30 | Fri | Assignment |     | 3    | PS03    |
+  | 02/06 | Fri | Assignment |     | 4    | PS04    |
+  | 02/13 | Fri | Assignment |     | 5    | PS05    |
+  | 02/20 | Fri | Assignment |     | 6    | PS06    |
+  | 02/27 | Fri | Assignment |     | 7    | PS07    |
+  | 03/06 | Fri | Assignment |     | 8    | PS08    |
+  | 03/13 | Fri | Assignment |     | 9    | PS09    |
+  | 03/20 | Fri | Assignment |     | 10   |         |
+  | 03/27 | Fri | Assignment |     | 11   |         |
+  | 04/03 | Fri | Assignment |     | 12   |         |
+  | 04/10 | Fri | Assignment |     | 13   |         |
+  | 04/17 | Fri | Assignment |     | 14   |         |
+  | 04/24 | Fri | Assignment |     | 15   |         |

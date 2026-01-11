@@ -37,10 +37,10 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
   | 03/20 | Fri | Tufts   |     | 10   | **No classes:** *Spring Break*                                            |
   | 03/21 | Sat | Tufts   |     | 10   | **No classes:** *Spring Break*                                            |
   | 03/22 | Sun | Tufts   |     | 10   | **No classes:** *Spring Break*                                            |
-  | 03/23 | Mon | Lecture | 16  | 11   | midterm 2                                                                 |
-  | 03/25 | Wed | Lecture | 17  | 11   | 6.2: Archimedes Riemann Theorem                                           |
-  | 03/30 | Mon | Lecture | 18  | 12   | 6.3: additivity, monotonicity, linearity                                  |
-  | 03/31 | Tue | Exam    |     | 12   | **midterm 2**                                                             |
+  | 03/23 | Mon | Lecture | 16  | 11   | 6.2: Archimedes Riemann Theorem                                           |
+  | 03/25 | Wed | Lecture | 17  | 11   | 6.3: additivity, monotonicity, linearity                                  |
+  | 03/30 | Mon | Lecture | 18  | 12   | midterm 2                                                                 |
+  | 03/30 | Mon | Exam    |     | 12   | **midterm 2**                                                             |
   | 04/01 | Wed | Lecture | 19  | 12   | 6.4: continuity and integrabilty                                          |
   | 04/01 | Wed | Tufts   |     | 12   | **Academic Date:** *Last day to withdraw from a course with W*            |
   | 04/01 | Wed | Tufts   |     | 12   | **Academic Date:** *Last day to select Pass/Fail Option*                  |

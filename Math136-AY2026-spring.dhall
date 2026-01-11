@@ -1,4 +1,4 @@
--- Time-stamp: <2026-01-10 Sat 21:42 EST - george@valhalla>
+-- Time-stamp: <2026-01-10 Sat 22:18 EST - george@valhalla>
 let Dow = < Mon | Tue | Wed | Thu | Fri | Sat | Sun >
 
 let concat = https://prelude.dhall-lang.org/List/concat
@@ -42,13 +42,13 @@ let Task =
 
 let tasks =
       [ Task.Meeting
-          { description = "Office hours"
+          { description = "Office Hr"
           , dow = Dow.Thu
           , time = { start = "14:30", end = "15:30" }
           , location = "JCC 559"
           }
       , Task.Meeting
-          { description = "Office hours"
+          { description = "Office Hr"
           , dow = Dow.Wed
           , time = { start = "15:00", end = "16:00" }
           , location = "JCC 559"
@@ -59,7 +59,7 @@ let homework =
       CourseComponent.Assignment
         { description = "Homework collected on gradescope"
         , sched =
-          [ ScheduleDetails.DowDue { dow = Dow.Sun, deadline = "23:59" } ]
+          [ ScheduleDetails.DowDue { dow = Dow.Fri, deadline = "23:59" } ]
         , assignments = ./topics/assignments.dhall : List Text
         }
 
@@ -97,8 +97,8 @@ let midterm2 =
       CourseComponent.Exam
         { sched =
           [ ScheduleDetails.Date
-              { date = "2026-03-31"
-              , time = { start = "9:00", end = "10:15" }
+              { date = "2026-03-30"
+              , time = { start = "10:30", end = "11:45" }
               , location = "JCC 140"
               }
           ]

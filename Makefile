@@ -52,8 +52,8 @@ notebooks: $(notebooks_pdf)
 #	$(PD) $(BEAMER_META) $< --pdf-engine=xelatex -t beamer --incremental --resource-path=$(RP) -o $@
 
 
-%.pdf: %.ipynb
-	jupyter nbconvert --to pdf  $<
+# %.pdf: %.ipynb
+# 	jupyter nbconvert --to pdf  $<
 #	jupyter nbconvert --to pdf --template=build-assets/secnum.tplx $<
 
 #course-assets/pages-pdf/%.pdf course-assets/posts-pdf/%.pdf %.pdf: %.md
