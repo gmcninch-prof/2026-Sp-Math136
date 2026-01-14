@@ -7,53 +7,53 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
 
   | Date  | DOW | Desc       | Seq          | Week | Details                                                                   |
   |-------|-----|------------|--------------|------|---------------------------------------------------------------------------|
-  | 01/14 | Wed | Meeting    | Office Hours | 1    | 15:00-16:00 JCC 559                                                       |
+  | 01/14 | Wed | Meeting    | Office Hours | 1    | 15:00-16:00 JCC 587                                                       |
   | 01/14 | Wed | Lecture    | 1            | 1    | 13.1: Limits; 13.2: partial derivatives                                   |
-  | 01/15 | Thu | Meeting    | Office Hours | 1    | 15:00-16:00 JCC 559                                                       |
+  | 01/15 | Thu | Meeting    | Office Hours | 1    | 15:00-16:00 JCC 587                                                       |
   | 01/16 | Fri | Assignment |              | 1    | PS01                                                                      |
   | 01/19 | Mon | Tufts      |              | 2    | **No classes:** *MLK Day*                                                 |
-  | 01/21 | Wed | Meeting    | Office Hours | 2    | 15:00-16:00 JCC 559                                                       |
+  | 01/21 | Wed | Meeting    | Office Hours | 2    | 15:00-16:00 JCC 587                                                       |
   | 01/21 | Wed | Lecture    | 2            | 2    | 13.3: The Mean Value Theorem and directional derivatives                  |
   | 01/21 | Wed | Tufts      |              | 2    | **Academic Date:** *Last day to add a course*                             |
   | 01/21 | Wed | Tufts      |              | 2    | **Tufts:** *Monday schedule*                                              |
-  | 01/22 | Thu | Meeting    | Office Hours | 2    | 15:00-16:00 JCC 559                                                       |
+  | 01/22 | Thu | Meeting    | Office Hours | 2    | 15:00-16:00 JCC 587                                                       |
   | 01/23 | Fri | Assignment |              | 2    | PS02                                                                      |
   | 01/26 | Mon | Lecture    | 3            | 3    | 14.1: First order approximation, 14.2: quadratics, Hessian and 2nd derivs |
-  | 01/28 | Wed | Meeting    | Office Hours | 3    | 15:00-16:00 JCC 559                                                       |
+  | 01/28 | Wed | Meeting    | Office Hours | 3    | 15:00-16:00 JCC 587                                                       |
   | 01/28 | Wed | Lecture    | 4            | 3    | 14.3: Second order approximation                                          |
-  | 01/29 | Thu | Meeting    | Office Hours | 3    | 15:00-16:00 JCC 559                                                       |
+  | 01/29 | Thu | Meeting    | Office Hours | 3    | 15:00-16:00 JCC 587                                                       |
   | 01/30 | Fri | Assignment |              | 3    | PS03                                                                      |
   | 02/02 | Mon | Lecture    | 5            | 4    | 15.1: Linear maps and matrices; 15.2: derivative matrix, differential     |
-  | 02/04 | Wed | Meeting    | Office Hours | 4    | 15:00-16:00 JCC 559                                                       |
+  | 02/04 | Wed | Meeting    | Office Hours | 4    | 15:00-16:00 JCC 587                                                       |
   | 02/04 | Wed | Lecture    | 6            | 4    | 15.3: The chain rule                                                      |
-  | 02/05 | Thu | Meeting    | Office Hours | 4    | 15:00-16:00 JCC 559                                                       |
+  | 02/05 | Thu | Meeting    | Office Hours | 4    | 15:00-16:00 JCC 587                                                       |
   | 02/06 | Fri | Assignment |              | 4    | PS04                                                                      |
   | 02/09 | Mon | Lecture    | 7            | 5    | 16.1: Functions of a single variable and maps in the plane                |
-  | 02/11 | Wed | Meeting    | Office Hours | 5    | 15:00-16:00 JCC 559                                                       |
+  | 02/11 | Wed | Meeting    | Office Hours | 5    | 15:00-16:00 JCC 587                                                       |
   | 02/11 | Wed | Lecture    | 8            | 5    | 16.2: Stability of non-linear maps                                        |
-  | 02/12 | Thu | Meeting    | Office Hours | 5    | 15:00-16:00 JCC 559                                                       |
+  | 02/12 | Thu | Meeting    | Office Hours | 5    | 15:00-16:00 JCC 587                                                       |
   | 02/13 | Fri | Assignment |              | 5    | PS05                                                                      |
   | 02/16 | Mon | Tufts      |              | 6    | **No classes:** *Presidents' Day*                                         |
-  | 02/18 | Wed | Meeting    | Office Hours | 6    | 15:00-16:00 JCC 559                                                       |
+  | 02/18 | Wed | Meeting    | Office Hours | 6    | 15:00-16:00 JCC 587                                                       |
   | 02/18 | Wed | Lecture    | 9            | 6    | midterm 1                                                                 |
   | 02/18 | Wed | Exam       |              | 6    | **midterm 1**                                                             |
   | 02/18 | Wed | Tufts      |              | 6    | **Academic Date:** *Last day to drop a course without record*             |
-  | 02/19 | Thu | Meeting    | Office Hours | 6    | 15:00-16:00 JCC 559                                                       |
+  | 02/19 | Thu | Meeting    | Office Hours | 6    | 15:00-16:00 JCC 587                                                       |
   | 02/20 | Fri | Assignment |              | 6    | (exam - no HW collection)                                                 |
   | 02/23 | Mon | Lecture    | 10           | 7    | 16.3: Minimization principle and the general inverse function theorem     |
-  | 02/25 | Wed | Meeting    | Office Hours | 7    | 15:00-16:00 JCC 559                                                       |
+  | 02/25 | Wed | Meeting    | Office Hours | 7    | 15:00-16:00 JCC 587                                                       |
   | 02/25 | Wed | Lecture    | 11           | 7    | 17.1: Dini's Theorem                                                      |
-  | 02/26 | Thu | Meeting    | Office Hours | 7    | 15:00-16:00 JCC 559                                                       |
+  | 02/26 | Thu | Meeting    | Office Hours | 7    | 15:00-16:00 JCC 587                                                       |
   | 02/27 | Fri | Assignment |              | 7    | PS07                                                                      |
   | 03/02 | Mon | Lecture    | 12           | 8    | 17.2: The general implicit function theorem                               |
-  | 03/04 | Wed | Meeting    | Office Hours | 8    | 15:00-16:00 JCC 559                                                       |
+  | 03/04 | Wed | Meeting    | Office Hours | 8    | 15:00-16:00 JCC 587                                                       |
   | 03/04 | Wed | Lecture    | 13           | 8    | 17.3: Equations of surfaces and paths in space                            |
-  | 03/05 | Thu | Meeting    | Office Hours | 8    | 15:00-16:00 JCC 559                                                       |
+  | 03/05 | Thu | Meeting    | Office Hours | 8    | 15:00-16:00 JCC 587                                                       |
   | 03/06 | Fri | Assignment |              | 8    | PS08                                                                      |
   | 03/09 | Mon | Lecture    | 14           | 9    | 17.4: Constrained extrema problems                                        |
-  | 03/11 | Wed | Meeting    | Office Hours | 9    | 15:00-16:00 JCC 559                                                       |
+  | 03/11 | Wed | Meeting    | Office Hours | 9    | 15:00-16:00 JCC 587                                                       |
   | 03/11 | Wed | Lecture    | 15           | 9    | 6.1: Darboux sums; upper and lower integrals                              |
-  | 03/12 | Thu | Meeting    | Office Hours | 9    | 15:00-16:00 JCC 559                                                       |
+  | 03/12 | Thu | Meeting    | Office Hours | 9    | 15:00-16:00 JCC 587                                                       |
   | 03/13 | Fri | Assignment |              | 9    | PS09                                                                      |
   | 03/14 | Sat | Tufts      |              | 9    | **No classes:** *Spring Break*                                            |
   | 03/15 | Sun | Tufts      |              | 9    | **No classes:** *Spring Break*                                            |
@@ -66,32 +66,32 @@ title: Math136 - Real Analysis II - AY2025-2026 spring
   | 03/21 | Sat | Tufts      |              | 10   | **No classes:** *Spring Break*                                            |
   | 03/22 | Sun | Tufts      |              | 10   | **No classes:** *Spring Break*                                            |
   | 03/23 | Mon | Lecture    | 16           | 11   | 6.2: Archimedes Riemann Theorem                                           |
-  | 03/25 | Wed | Meeting    | Office Hours | 11   | 15:00-16:00 JCC 559                                                       |
+  | 03/25 | Wed | Meeting    | Office Hours | 11   | 15:00-16:00 JCC 587                                                       |
   | 03/25 | Wed | Lecture    | 17           | 11   | 6.3: additivity, monotonicity, linearity                                  |
-  | 03/26 | Thu | Meeting    | Office Hours | 11   | 15:00-16:00 JCC 559                                                       |
+  | 03/26 | Thu | Meeting    | Office Hours | 11   | 15:00-16:00 JCC 587                                                       |
   | 03/27 | Fri | Assignment |              | 11   | PS11                                                                      |
   | 03/30 | Mon | Lecture    | 18           | 12   | midterm 2                                                                 |
   | 03/30 | Mon | Exam       |              | 12   | **midterm 2**                                                             |
-  | 04/01 | Wed | Meeting    | Office Hours | 12   | 15:00-16:00 JCC 559                                                       |
+  | 04/01 | Wed | Meeting    | Office Hours | 12   | 15:00-16:00 JCC 587                                                       |
   | 04/01 | Wed | Lecture    | 19           | 12   | 6.4: continuity and integrabilty                                          |
   | 04/01 | Wed | Tufts      |              | 12   | **Academic Date:** *Last day to withdraw from a course with W*            |
   | 04/01 | Wed | Tufts      |              | 12   | **Academic Date:** *Last day to select Pass/Fail Option*                  |
-  | 04/02 | Thu | Meeting    | Office Hours | 12   | 15:00-16:00 JCC 559                                                       |
+  | 04/02 | Thu | Meeting    | Office Hours | 12   | 15:00-16:00 JCC 587                                                       |
   | 04/03 | Fri | Assignment |              | 12   | PS12                                                                      |
   | 04/06 | Mon | Lecture    | 20           | 13   | 6.5: First fundamental theorem: integrating derivatives                   |
-  | 04/08 | Wed | Meeting    | Office Hours | 13   | 15:00-16:00 JCC 559                                                       |
+  | 04/08 | Wed | Meeting    | Office Hours | 13   | 15:00-16:00 JCC 587                                                       |
   | 04/08 | Wed | Lecture    | 21           | 13   | 6.6: Second fundamental theorem: differentiating integrals                |
-  | 04/09 | Thu | Meeting    | Office Hours | 13   | 15:00-16:00 JCC 559                                                       |
+  | 04/09 | Thu | Meeting    | Office Hours | 13   | 15:00-16:00 JCC 587                                                       |
   | 04/10 | Fri | Assignment |              | 13   | PS13                                                                      |
   | 04/13 | Mon | Lecture    | 22           | 14   | Fourier Series 1                                                          |
-  | 04/15 | Wed | Meeting    | Office Hours | 14   | 15:00-16:00 JCC 559                                                       |
+  | 04/15 | Wed | Meeting    | Office Hours | 14   | 15:00-16:00 JCC 587                                                       |
   | 04/15 | Wed | Lecture    | 23           | 14   | Fourier Series 2                                                          |
-  | 04/16 | Thu | Meeting    | Office Hours | 14   | 15:00-16:00 JCC 559                                                       |
+  | 04/16 | Thu | Meeting    | Office Hours | 14   | 15:00-16:00 JCC 587                                                       |
   | 04/17 | Fri | Assignment |              | 14   | PS14                                                                      |
   | 04/20 | Mon | Tufts      |              | 15   | **No classes:** *Patriots' Day*                                           |
-  | 04/22 | Wed | Meeting    | Office Hours | 15   | 15:00-16:00 JCC 559                                                       |
+  | 04/22 | Wed | Meeting    | Office Hours | 15   | 15:00-16:00 JCC 587                                                       |
   | 04/22 | Wed | Lecture    | 24           | 15   | Fourier Series 3                                                          |
-  | 04/23 | Thu | Meeting    | Office Hours | 15   | 15:00-16:00 JCC 559                                                       |
+  | 04/23 | Thu | Meeting    | Office Hours | 15   | 15:00-16:00 JCC 587                                                       |
   | 04/24 | Fri | Assignment |              | 15   |                                                                           |
   | 04/27 | Mon | Lecture    | 25           | 16   | Fourier Series 4                                                          |
   | 04/28 | Tue | Tufts      |              | 16   | **Academic Date:** *Reading Period*                                       |
