@@ -14,6 +14,6 @@ date    : 2026-01-14
   [2026-01-23].
 
 - I'm going to try to make summaries of the lectures (so: no proofs,
-  but statements of theorems and defintions, with references to the
+  but statements of theorems and definitions, with references to the
   text [Fitzpatrick]). [Here is the document containing summary of the
   initial lecture](/course-content/136-summaries.pdf).
