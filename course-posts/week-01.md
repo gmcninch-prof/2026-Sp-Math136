@@ -11,7 +11,7 @@ date    : 2026-01-14
   
   
 - [problem set 1](/course-content/2026-01-16--assignment-01.pdf) due
-  [2026-01-23].
+  [2026-01-23]. (updated [2026-01-17]).
 
 - I'm going to try to make summaries of the lectures (so: no proofs,
   but statements of theorems and definitions, with references to the
