@@ -1,0 +1,99 @@
+
+
+\documentclass[12pt]{article}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+
+% Define problem environment
+\newtheorem{problem}{Problem}
+
+% Custom commands
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\abs}[1]{\left|#1\right|}
+
+\title{Assignment 1}
+\author{Math136\\
+George McNinch\\
+Spring 2026, Tufts University}
+\date{Due: 2026-01-23}
+
+\begin{document}
+
+\maketitle
+
+\noindent Sections of [Fitzpatrick] covered: $\S 13.1, 13.2, 13.3$
+
+\begin{problem}
+Let $f:\RR^2 \to \RR$ be defined by 
+\[ f(x,y) = \begin{cases}
+xy / (x^2 + y^2) & \text{if } (x,y) \neq (0,0), \\
+0 & \text{else}.
+\end{cases} \]
+
+We saw in the lecture that $f_x = \partial f / \partial x$ and $f_y = \partial f / \partial y$ exist. Show that neither $f_x$ nor $f_y$ is continuous at the point $(0,0)$.
+\end{problem}
+
+\begin{problem}
+Suppose that $g:\RR^3 \to \RR$ has the property that 
+\[ \abs{g(x,y,z)} \leq x^2 + y^2 + z^2 \quad \text{for all } (x,y,z) \in \RR^3. \]
+Prove that $\partial g / \partial x$, $\partial g / \partial y$ and $\partial g / \partial z$ all exist at $(0,0,0)$.
+\end{problem}
+
+\begin{problem}
+Let $U$ be an open subset of $\RR^3$ and let $g:U \to \RR$ be a function which has first-order partial derivatives at each point $\vec{x} \in U$. Recall that the \emph{gradient} of $g$ is the function 
+\[ \nabla g:U \to \RR^3 \quad \text{given by} \quad (\nabla g)(x,y,z) = (g_x(x,y,z), g_y(x,y,z), g_z(x,y,z)); \]
+more succinctly, $\nabla g = (g_x, g_y, g_z)$.
+
+Let's just consider the case $U = \RR^3$, so $g:\RR^3 \to \RR$ has first order partial derivatives at every point $\vec{x} \in \RR^3$.
+
+Prove: if $(\nabla g)(\vec{x}) = 0$ for every $\vec{x} \in \RR^3$ then $g$ is \emph{constant}; i.e. there is $c \in \RR$ with $g(\vec{x}) = c$ for every $\vec{x} \in \RR^3$.
+\end{problem}
+
+\begin{problem}[\textbf{Chain Rule}]
+Let $U$ an open subset of $\RR^3$ containing the point $\vec{x}$, and $f:U \to \RR$ a function for which the partial derivative $f_x(\vec{x})$ exists.
+
+Suppose that $g:\RR \to \RR$ is differentiable at the point $f(\vec{x})$.
+
+Prove that the function $g \circ f:U \to \RR$ has a partial derivative with respect to $x$ and that 
+\[ \frac{\partial}{\partial x}(g \circ f)(\vec{x}) = g'(f(\vec{x})) \cdot f_x(\vec{x}). \]
+\end{problem}
+
+\begin{problem}
+Find the gradient $\nabla f$ for each of the following functions.
+\begin{enumerate}[label=\alph*.]
+\item $f:\RR^n \to \RR$ given by $f(\vec{x}) = e^{\abs{\vec{x}}^2} = \exp(\abs{\vec{x}}^2)$
+
+\item $f:\RR^2 \to \RR$ given by $f(\vec{x}) = \sin(xy) / \sqrt{x^2 + y^2 + 1}$.
+\end{enumerate}
+\end{problem}
+
+\begin{problem}
+Assume that $U$ is an open subset of $\RR^3$ and that $f,g:U \to \RR$ are continuously differentiable. For $\vec{x} \in U$, find a formula for $\nabla(fg)(\vec{x})$ in terms of $\nabla f(\vec{x})$ and $\nabla g(\vec{x})$.
+\end{problem}
+
+\begin{problem}
+Assume that $U$ is an open subset of $\RR^3$, that $f:U \to \RR$ and $g:\RR \to \RR$ are continuously differentiable. For $\vec{x} \in U$ find a formula for $\nabla(g \circ f)(\vec{x})$ in terms of $\nabla f(\vec{x})$ and $g'(f(\vec{x}))$.
+\end{problem}
+
+\begin{problem}
+Let 
+\[ f:\RR^2 \to \RR \quad \text{be given by} \quad f(x,y) = \begin{cases}
+(x / \abs{y}) \cdot \sqrt{x^2 + y^2} & \text{if } y \neq 0, \\
+0 & \text{if } y = 0.
+\end{cases} \]
+
+\begin{enumerate}[label=\alph*.]
+\item Prove that $f$ is not continuous at $\vec{0}$.
+
+\item Prove that the directional derivative $\displaystyle\frac{\partial f}{\partial \vec{p}}(0,0)$ is defined for all $\vec{0} \neq \vec{p} \in \RR^2$.
+
+\item Prove that for each $c \in \RR$ there is a vector $\vec{p} \in \RR^2$ with $\abs{\vec{p}} = 1$ such that 
+\[ \frac{\partial f}{\partial \vec{p}}(\vec{0}) = c. \]
+
+Explain why this observation does not contradict Corollary 13.18 in [Fitzpatrick].
+\end{enumerate}
+\end{problem}
+
+\end{document}
+

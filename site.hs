@@ -51,8 +51,10 @@ main = hakyllWith config $ do
       route idRoute
       compile copyFileCompiler
 
-    match "course-content/*pdf"
-          $ do
+    match ("course-content/*pdf"
+          .||. "course-content/*tex"
+          .||. "course-content/*typ"          
+          )$ do
       route idRoute
       compile copyFileCompiler
 
